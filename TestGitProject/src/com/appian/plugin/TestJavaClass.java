@@ -7,8 +7,6 @@ public class TestJavaClass {
 		
 		System.out.println("HI");
 		
-		System.out.println("HI");
-		
 		
 	}
 
