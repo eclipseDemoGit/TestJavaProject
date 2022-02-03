@@ -4,10 +4,13 @@ public class TestJavaClass {
 	
 	public static void main(String[] args) {
 		
-		
-		System.out.println("HI");
+		TestJavaClass obj= new TestJavaClass();
+		System.out.println(obj.getNumber());
 		
 		
 	}
 
+	public int getNumber() {
+		return 1;
+	}
 }
